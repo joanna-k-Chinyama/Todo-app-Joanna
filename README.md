@@ -1,6 +1,15 @@
 # Todo-app-Joanna
 # how to run the app
+you need a c++ compiler and cpp file. 1.install a c++ compiler
+ 1. if youre on windows install MinGW
+ 2. mac already has a compiler
+ 3. if you are using a andriod phone install Cxxdriod
+ 4. if you are iphone iSH terminal or onlineGDB website 2.using VScode
 
+open VScode
+go to file and select folder with my portfolio app c++ file.
+open terminal
+run the app
 # screenshots of app working
 1.when user adds task to file.
 <img width="1920" height="1080" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/c2f53c23-184e-4fb3-b0c2-c8d179e52e41" />
